@@ -1,7 +1,7 @@
 ```Yhdistyksen säännöt, jotka olivat voimassa perustamisesta (2012) vuoteen 2016 saakka.```
 
 # 1. Yhdistyksen nimi ja kotipaikka
-Yhdistyksen nimi on Open Knowledge Finland ry ja sen kotipaikka on Helsinki.
+Yhdistyksen nimi on Open Knowledge Finland ry. ja sen kotipaikka on Helsinki.
 
 # 2. Tarkoitus ja toiminnan laatu
 Yhdistyksen tarkoituksena on edistää tiedon avoimuutta ja avoimen tiedon hyödyntämistä sekä edesauttaa avoimen yhteiskunnan kehittymistä. Avoimella tiedolla viitataan digitaalisessa muodossa oleviin sisältöihin ja dataan, joita kuka tahansa voi vapaasti ja maksutta käyttää, muokata ja uudelleenjakaa.
