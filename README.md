@@ -101,4 +101,4 @@ Päätös sääntöjen muuttamisesta ja yhdistyksen purkamisesta on tehtävä yh
 
 Kokouskutsussa on mainittava sääntöjen muuttamisesta tai yhdistyksen purkamisesta. Yhdistyksen purkautuessa käytetään yhdistyksen varat yhdistyksen tarkoituksen edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla. Pesänselvitysmiehinä toimivat kokouksen valitsemat henkilöt. Yhdistyksen purkamisesta on ilmoitettava yhdistysrekisteriin.
 
-Yhdistyksen tullessa lakkautetuksi on sen varat samaan tarkoitukseen.
+Yhdistyksen tullessa lakkautetuksi on sen varat käytettävä samaan tarkoitukseen.
