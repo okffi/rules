@@ -99,6 +99,6 @@ Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen vuosikokouksen 
 # 14. Sääntöjen muuttaminen ja yhdistyksen purkaminen
 Päätös sääntöjen muuttamisesta ja yhdistyksen purkamisesta on tehtävä yhdistyksen kokouksessa vähintään kolmen neljäsosan (3/4) enemmistöllä annetuista äänistä.
 
-Kokouskutsussa on mainittava sääntöjen muuttamisesta tai yhdistyksen purkamisesta. Yhdistyksen purkautuessa käytetään yhdistyksen varat yhdistyksen tarkoituksen edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla. Pesänselvitysmiehinä toimivat yhdistyskokouksen valitsemat henkilöt. Yhdistyksen purkamisesta on ilmoitettava yhdistysrekisteriin.
+Kokouskutsussa on mainittava sääntöjen muuttamisesta tai yhdistyksen purkamisesta. Yhdistyksen purkautuessa käytetään yhdistyksen varat yhdistyksen tarkoituksen edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla. Pesänselvitysmiehinä toimivat kokouksen valitsemat henkilöt. Yhdistyksen purkamisesta on ilmoitettava yhdistysrekisteriin.
 
-Yhdistyksen tullessa lakkautetuksi on sen varat käytettävä yhdistyksen säännöissä mainitun tarkoituksen edistämiseen.
+Yhdistyksen tullessa lakkautetuksi on sen varat käytettävä samaan tarkoitukseen.
