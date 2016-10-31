@@ -4,7 +4,7 @@
 Yhdistyksen nimi on Open Knowledge Finland ry. ja sen kotipaikka on Helsinki.
 
 # 2. Tarkoitus ja toiminnan laatu
-Yhdistyksen tarkoituksena on edistää tiedon avoimuutta ja avoimen tiedon hyödyntämistä sekä edesauttaa avoimen yhteiskunnan kehittymistä. Avoimella tiedolla viitataan digitaalisessa muodossa oleviin sisältöihin ja dataan, joita kuka tahansa voi vapaasti ja maksutta käyttää, muokata ja uudelleenjakaa.
+Yhdistyksen tarkoituksena on edistää tiedon avoimuutta, avoimen tiedon hyödyntämistä sekä edesauttaa avoimen yhteiskunnan kehittymistä. Avoimella tiedolla viitataan digitaalisessa muodossa oleviin sisältöihin ja dataan, joita kuka tahansa voi vapaasti ja maksutta käyttää, muokata ja uudelleenjakaa.
 
 Tarkoituksensa toteuttamiseksi yhdistys edistää alan toimijoiden verkostoitumista, antaa julkisuuteen lausuntoja, laatii selvityksiä ja aloitteita, toteuttaa ja tukee tarkoitustaan tukevia hankkeita ja projekteja.
 
