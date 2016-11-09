@@ -1,4 +1,4 @@
-```Ylimääräisessä yhdistyskokouksessa 27.10.2016 hyväksytyt säännöt.```
+```Ylimääräisessä yhdistyskokouksessa 27.10.2016 hyväksytyt ja 9.11.2016 PRH:n palautteen perusteella korjatut säännöt.```
 
 # 1. Yhdistyksen nimi ja kotipaikka
 Yhdistyksen nimi on Open Knowledge Finland ry. ja sen kotipaikka on Helsinki.
@@ -33,7 +33,7 @@ Hallitus voi katsoa jäsenen eronneeksi yhdistyksestä, jos jäsen ei ole maksan
 Erotetulla ei ole oikeutta vaatia takaisin yhdistykselle suorittamiaan maksuja.
 
 # 5. Liittymis- ja jäsenmaksu
-Varsinaisilta jäseniltä ja kannatusjäseniltä perittävien liittymis- ja vuotuisten jäsenmaksujen luokista ja niiden suuruudesta erikseen kummallekin jäsenryhmälle päättää syyskokous. Jäsenten oikeudet eivät riipu jäsenmaksuluokasta.
+Varsinaisilta jäseniltä ja kannatusjäseniltä perittävien liittymis- ja vuotuisten jäsenmaksujen luokista ja niiden suuruudesta erikseen kummallekin jäsenryhmälle päättää syyskokous. Jäsen valitsee itse haluamansa jäsenmaksuluokan. Jäsenten oikeudet eivät riipu jäsenmaksuluokasta.
 
 Hallitus voi vapauttaa jäsenen osittain tai kokonaan liittymis- tai jäsenmaksusta huonon taloudellisen aseman tai muun vastaavan sosiaalisen syyn perusteella tai jos jäsen on tehnyt yhdistykselle huomattavia sen toimintaa tukevia palveluja.
 
@@ -59,9 +59,9 @@ Yhdistyksen päätöksenteko ja toiminta on avointa ja läpinäkyvää. Yhdistys
 Kaikki päätökset ovat julkisia. Erityisestä syystä, kuten yksityisyyden suojan toteuttamiseksi tai päätösasian arkaluontoisuuden vuoksi hallitus voi rajoittaa hallituksen ulkopuolisten osallistumista päätösasian käsittelyyn sekä päätösesitysten liitteiden tai päätösten liitteiden julkisuutta. 
 
 # 9. Yhdistyksen nimen kirjoittaminen
-Yhdistyksen nimen kirjoittavat hallituksen puheenjohtaja, varapuheenjohtaja tai toiminnanjohtaja yksin, tai rahastonhoitaja ja sihteeri yhdessä.
+Yhdistyksen nimen kirjoittavat hallituksen puheenjohtaja, varapuheenjohtajat tai toiminnanjohtaja yksin, tai rahastonhoitaja ja sihteeri yhdessä.
 
-Hallitus voi oikeuttaa tietyksi ajaksi tai tiettyä erikseen määrättyä tarkoitusta varten yhdistyksen jäsenen tai muun henkilön kirjoittamaan yksinään yhdistyksen nimen. 
+Hallitus voi oikeuttaa yhdistyksen jäsenen tai muun henkilön kirjoittamaan yksinään yhdistyksen nimen. 
 
 Nimenkirjoittajien on oltava täysi-ikäisiä.
 
@@ -69,7 +69,7 @@ Nimenkirjoittajien on oltava täysi-ikäisiä.
 Yhdistyksen tilikausi on kalenterivuosi. Tilinpäätös tarvittavine asiakirjoineen ja hallituksen toimintakertomus on annettava toiminnantarkastajille/tilintarkastajille viimeistään kuukautta ennen kevätkokousta. Toiminnantarkastajien/tilintarkastajien tulee antaa kirjallinen lausuntonsa viimeistään kaksi viikkoa ennen kevätkokousta hallitukselle.
 
 # 11. Yhdistyksen kokoukset
-Yhdistyksellä on kaksi vuosittaista kokousta, syyskokous ja kevätkokous. Etäosallistuminen yhdistyksen kokoukseen on mahdollista postitse taikka tietoliikenneyhteyden tai muun teknisen apuvälineen avulla kokouksen aikana tai ennen kokousta.
+Yhdistyksellä on kaksi vuosittaista kokousta, syyskokous ja kevätkokous. Etäosallistuminen yhdistyksen kokoukseen on mahdollista hallituksen tai yhdistyksen kokoukseen niin päätettäessä postitse taikka tietoliikenneyhteyden tai muun teknisen apuvälineen avulla kokouksen aikana tai ennen kokousta.
 
 Yhdistyksen kevätkokous pidetään tammi-kesäkuussa ja syyskokous heinä-joulukuussa hallituksen määräämänä ajankohtana. Ylimääräinen kokous pidetään, kun yhdistyksen kokous niin päättää tai kun hallitus katsoo siihen olevan aihetta tai kun vähintään kymmenesosa (1/10) yhdistyksen äänioikeutetuista jäsenistä tai vähintään 50 yhdistyksen äänioikeutettua jäsentä sitä hallitukselta erityisesti ilmoitettua asiaa varten kirjallisesti vaatii.
 
