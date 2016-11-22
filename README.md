@@ -1,6 +1,6 @@
 ```Ylimääräisessä yhdistyskokouksessa 27.10.2016 hyväksytyt ja 9.11.2016 PRH:n palautteen perusteella korjatut säännöt, jotka PRH on rekisteröinyt 17.11.2016.```
 
-[Virallinen PRH:n päätös sääntäjen rekisteröimisestä ja säännöt PDF-muodossa](https://github.com/okffi/rules/blob/gh-pages/2016_519609Y_paatos.pdf)
+[Virallinen PRH:n päätös sääntöjen rekisteröimisestä ja säännöt PDF-muodossa](https://github.com/okffi/rules/blob/gh-pages/2016_519609Y_paatos.pdf)
 
 # 1. Yhdistyksen nimi ja kotipaikka
 Yhdistyksen nimi on Open Knowledge Finland ry. ja sen kotipaikka on Helsinki.
